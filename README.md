@@ -1,6 +1,6 @@
 # Nightfall Storyline FREE
 
-Nightfall Storyline is a Guild Wars bot that automates progression through the Nightfall campaign. The FREE edition includes 16 Nightfall campaign phases.
+Nightfall Storyline is an automation bot for Guild Wars: Nightfall. It runs supported campaign quests and missions in sequence, with routines for travel, movement, party management, combat, loot, inventory and mission transitions. The FREE edition includes 16 phases. The FULL edition includes 58 phases.
 
 ## Download
 
