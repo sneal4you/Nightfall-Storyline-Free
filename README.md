@@ -4,9 +4,7 @@ Nightfall Storyline is a Guild Wars bot that automates progression through the N
 
 ## Download
 
-Download the ready-to-use package from the [latest GitHub Release](https://github.com/sneal4you/Nightfall-Storyline-Free/releases/latest):
-
-[Download NightfallStoryline-FREE.zip](https://github.com/sneal4you/Nightfall-Storyline-Free/releases/latest/download/NightfallStoryline-FREE.zip)
+Download the ready-to-use package from the [latest GitHub Release](https://github.com/sneal4you/Nightfall-Storyline-Free/releases/latest).
 
 Extract the ZIP file while keeping its folder structure, then run the included launcher.
 
