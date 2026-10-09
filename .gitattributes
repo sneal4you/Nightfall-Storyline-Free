@@ -1,0 +1,2 @@
+API/Plugins/Pathfinder/maps.rar filter=lfs diff=lfs merge=lfs -text
+launcher/GW_Launcher.exe filter=lfs diff=lfs merge=lfs -text
