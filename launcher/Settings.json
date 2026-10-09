@@ -1,0 +1,6 @@
+{
+  "CheckForUpdates": true,
+  "AutoUpdate": false,
+  "LaunchMinimized": false,
+  "TimeoutOnModlaunch": 5000
+}
