@@ -1,7 +1,0 @@
-# Local activation keys and runtime state must never be published.
-/license/
-**/license.key
-/state/
-/logs/
-*.log
-*.tmp
