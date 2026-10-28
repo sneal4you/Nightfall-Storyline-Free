@@ -1,6 +1,15 @@
 {
   "CheckForUpdates": true,
-  "AutoUpdate": false,
+  "PromptForUpdates": true,
   "LaunchMinimized": false,
-  "TimeoutOnModlaunch": 5000
+  "KeepInSystemTray": true,
+  "ShowTitleBarInTray": true,
+  "ListWidth": 220,
+  "ListHeight": 340,
+  "ListX": 1376,
+  "ListY": 688,
+  "TimeoutOnModlaunch": 5000,
+  "SteamPath": "",
+  "UiScale": 100,
+  "WinePath": ""
 }
