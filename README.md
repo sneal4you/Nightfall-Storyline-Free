@@ -19,7 +19,7 @@ The FULL license is not available yet. More information will be posted here when
 ## Usage instructions
 
 1. Configure your Guild Wars account in the included launcher.
-2. Launch Guild Wars from the launcher, sign in, and create a Dervish character.
+2. Launch Guild Wars from the launcher, sign in, and create a Dervish or Ranger character (choose the profession with the checkboxes at the top of the bot window).
 3. Close Guild Wars completely.
 4. Launch the Nightfall Storyline bot.
 5. Select the configured account in the bot and start!
